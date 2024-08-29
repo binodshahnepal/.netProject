@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|d:\\lumbini ict college-bca-2081\\studentregistrationproject\\studentregistrationproject\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\studentmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\studentmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\studentmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\studentmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\course.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\course.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\course.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\course.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\coursedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\coursedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\dataaccesslayer\\courseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\dataaccesslayer\\courseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\studentdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\studentdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\studentdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\studentdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\studentregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\studentregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\studentregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\studentregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\dataaccesslayer\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\dataaccesslayer\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\userdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\userdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\userdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\userdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\userregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\userregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\userregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\userregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\dataaccesslayer\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\dataaccesslayer\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\dataaccesslayer\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\dataaccesslayer\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\pages\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\pages\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentregistrationproject\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0A991BEF-1857-421D-8B08-9D58CDEE3F04}|studentRegistrationProject\\studentRegistrationProject.csproj|solutionrelative:studentregistrationproject\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentMaster.Master.cs",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\studentMaster.Master.cs",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\studentMaster.Master.cs",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\studentMaster.Master.cs",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\studentMaster.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:15:02.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "courseDetails.aspx",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\courseDetails.aspx",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\courseDetails.aspx",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\courseDetails.aspx",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\courseDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-28T06:29:13.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "course.aspx.cs",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\course.aspx.cs",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\course.aspx.cs",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\course.aspx.cs",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\course.aspx.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:22:59.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "courseClass.cs",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\DataAccessLayer\\courseClass.cs",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\DataAccessLayer\\courseClass.cs",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\DataAccessLayer\\courseClass.cs",
+              "RelativeToolTip": "studentRegistrationProject\\DataAccessLayer\\courseClass.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:13:51.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studentMaster.Master",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\studentMaster.Master",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\studentMaster.Master",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\studentMaster.Master",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\studentMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-27T07:20:13.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "studentDetails.aspx.cs",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\studentDetails.aspx.cs",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\studentDetails.aspx.cs",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\studentDetails.aspx.cs",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\studentDetails.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:21:48.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "studentDetails.aspx",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\studentDetails.aspx",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\studentDetails.aspx",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\studentDetails.aspx",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\studentDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-27T07:20:16.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "studentRegistration.aspx.cs",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\studentRegistration.aspx.cs",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\studentRegistration.aspx.cs",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\studentRegistration.aspx.cs",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\studentRegistration.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwB4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:14:21.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "studentCLass.cs",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\DataAccessLayer\\studentCLass.cs",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\DataAccessLayer\\studentCLass.cs",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\DataAccessLayer\\studentCLass.cs",
+              "RelativeToolTip": "studentRegistrationProject\\DataAccessLayer\\studentCLass.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwEEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:04:37.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "userDetails.aspx.cs",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\userDetails.aspx.cs",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\userDetails.aspx.cs",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\userDetails.aspx.cs",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\userDetails.aspx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:38:42.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "userDetails.aspx",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\userDetails.aspx",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\userDetails.aspx",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\userDetails.aspx",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\userDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-22T07:34:38.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\login.aspx.cs",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\login.aspx.cs",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\login.aspx.cs",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\login.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:19:32.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "userRegistration.aspx.cs",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\userRegistration.aspx.cs",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\userRegistration.aspx.cs",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\userRegistration.aspx.cs",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\userRegistration.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:33:22.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "userClass.cs",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\DataAccessLayer\\userClass.cs",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\DataAccessLayer\\userClass.cs",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\DataAccessLayer\\userClass.cs",
+              "RelativeToolTip": "studentRegistrationProject\\DataAccessLayer\\userClass.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAiwE8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:26:26.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\Web.config",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\Web.config",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\Web.config",
+              "RelativeToolTip": "studentRegistrationProject\\Web.config",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-16T07:22:50.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "connectionClass.cs",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\DataAccessLayer\\connectionClass.cs",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\DataAccessLayer\\connectionClass.cs",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\DataAccessLayer\\connectionClass.cs",
+              "RelativeToolTip": "studentRegistrationProject\\DataAccessLayer\\connectionClass.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAnwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:22:43.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "course.aspx",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\course.aspx",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\course.aspx",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\course.aspx",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\course.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-16T07:12:20.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dashboard.aspx",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\dashboard.aspx",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\dashboard.aspx",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\dashboard.aspx",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-16T06:59:50.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "studentRegistration.aspx",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\studentRegistration.aspx",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\studentRegistration.aspx",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\studentRegistration.aspx",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\studentRegistration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-14T07:26:07.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "userRegistration.aspx",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\userRegistration.aspx",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\userRegistration.aspx",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\userRegistration.aspx",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\userRegistration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-14T07:25:39.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\css\\style.css",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\css\\style.css",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\css\\style.css",
+              "RelativeToolTip": "studentRegistrationProject\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T07:06:35.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.aspx",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\login.aspx",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\pages\\login.aspx",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\pages\\login.aspx",
+              "RelativeToolTip": "studentRegistrationProject\\pages\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-14T07:05:29.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "About.aspx",
+              "DocumentMoniker": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\About.aspx",
+              "RelativeDocumentMoniker": "studentRegistrationProject\\About.aspx",
+              "ToolTip": "D:\\Lumbini ICT College-BCA-2081\\studentRegistrationProject\\studentRegistrationProject\\About.aspx",
+              "RelativeToolTip": "studentRegistrationProject\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-14T07:04:08.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

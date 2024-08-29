@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="studentMaster.master.cs" Inherits="studentRegistrationProject.studentMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Student Registration System</title>
+    <link href="../css/style.css" type="text/css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <h1>STUDENT REGISTRATION SYSTEM</h1>
+  <div class="container">
+      <div id="left">
+          <ul>
+              <li><a href="dashboard.aspx">HOME</a></li>
+              <li><a href="login.aspx">LOG OUT</a></li>
+              <li><a href="userRegistration.aspx">USER REGISTRATION</a></li>
+              <li><a href="studentRegistration.aspx">STUDENT REGISTRATION</a></li>
+              <li><a href="course.aspx">COURSE</a></li>
+              <li><a href="#">CLASS DETAILS</a></li>
+              <li><a href="userDetails.aspx">USER DETAILS</a></li>
+              <li><a href="studentDetails.aspx">STUDENT DETAILS</a></li>
+              <li><a href="courseDetails.aspx">COURSE DETAILS</a></li>
+          </ul>
+      </div><!--end of left-->
+      <div id="right">
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+          </div><!--end of right-->
+      </div><!--end of container-->
+</body>
+</html>
